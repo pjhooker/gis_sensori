@@ -1,0 +1,961 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Garoo Srl",
+        "twitter": "garooeu",
+        "marker-color": "#f10a0a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1931441,
+          45.4993735,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "WeMake",
+        "twitter": "wemakecc",
+        "marker-color": "#f10a0a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2286173,
+          45.5068106,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Coworking Login",
+        "twitter": "CoworkingLogin",
+        "marker-color": "#f10a0a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.228081,
+          45.5065436,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "piano C",
+        "twitter": "PianoC_Mi",
+        "marker-color": "#f10a0a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2144459,
+          45.45521189999999,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Cowo - Coworking Project/Milano/Monumentale",
+        "twitter": "coworkingcowo",
+        "marker-color": "#f10a0a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1668492,
+          45.491465,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Impact Hub Milano",
+        "twitter": "ImpactHubMilano",
+        "marker-color": "#f10a0a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1800663,
+          45.4820268,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Atabaliba Studio",
+        "twitter": "AtabalibaStudio",
+        "marker-color": "#f10a0a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1875906,
+          45.4907397,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Qf milano",
+        "twitter": "qfmilano",
+        "marker-color": "#f10a0a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1735196,
+          45.48367140000001,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Indiehub Srl",
+        "twitter": "in_d_hub",
+        "marker-color": "#f10a0a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.178419,
+          45.4827684,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Talent Garden",
+        "twitter": "talentgardenit",
+        "marker-color": "#f10a0a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2213021,
+          45.49733449999999,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Santeria S.r.l.",
+        "twitter": "santeriamilano",
+        "marker-color": "#f10a0a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2344543,
+          45.4696885,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Ellequadra Srl",
+        "twitter": "CowoCheConta",
+        "marker-color": "#f10a0a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1762075,
+          45.4645326,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Open - More than books",
+        "twitter": "openmilano",
+        "marker-color": "#f10a0a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.20332,
+          45.452889,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#1f14ae",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "inCOWO",
+        "twitter": "inCowo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.178138,
+          45.4353,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Parini CoWorking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.115035,
+          45.473891,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Navigli Working Factory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1683164,
+          45.449966,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Cowo - Coworking Project/Milano/Ventura"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2432041,
+          45.4841042,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Spazio3 - Coworking - Milano Lambrate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2413164,
+          45.4868476,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "StartMiUp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2042256,
+          45.49055089999999,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "CoworkingRipamonti.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1978501,
+          45.4466476,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Coworking Link Sesto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2145384,
+          45.53018979999999,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Unità di Produzione"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2354089,
+          45.5081552,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Copernico Milano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.204712,
+          45.490881,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Work On - Temporary Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2254029,
+          45.48985529999999,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Collettivo Virale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1440246,
+          45.4847296,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Assitech.Net Srl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1523224,
+          45.4572232,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Base — new works"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.185492,
+          45.48968,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Coworking Milano Due"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.265299,
+          45.502097,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Coffice Milano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2019296,
+          45.452795,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Monkey Business"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.243117,
+          45.484131,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Hotel Residence Zumbini 6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1582152,
+          45.4413886,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Coworking Lab Milano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.228473,
+          45.485591,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "YATTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1830723,
+          45.4820743,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Basilica di Sant'Ambrogio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.175612,
+          45.4623292,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Regus Milano Maciachini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.185015,
+          45.501135,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Università Cattolica del Sacro Cuore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1771785,
+          45.46213249999999,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Idlab S.r.l."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2440111,
+          45.51202869999999,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Factory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2527922,
+          45.4710441,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Offisquare"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1467165,
+          45.4452375,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Sky"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2413795,
+          45.43382,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Lanza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1825481,
+          45.4722295,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Milano Rogoredo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.238708,
+          45.433474,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Milano Centrale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2042827,
+          45.4858877,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Ristorante Solferino"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1883918,
+          45.4781653,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "PoliHub - Startup District & Incubator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1623925,
+          45.50678209999999,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "The Hub Hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1195157,
+          45.5139021,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Makelab Srl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2225057,
+          45.4511841,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "spazio A!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1873176,
+          45.4886098,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Università degli Studi di Milano Bicocca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2134041,
+          45.5183837,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "The Vortex Srl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2174986,
+          45.4864826,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "IMBIK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1969244,
+          45.4448067,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Mani Tese"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1429144,
+          45.4637926,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Web Fashion Academy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1665979,
+          45.4771477,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Affitto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2069345,
+          45.4779455,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Ottima Idea!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.265418,
+          45.502073,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Meda36"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1787056,
+          45.441729,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f10a0a",
+        "Name": "Regus Milano Carrobbio",
+        "twitter": "RegusItalia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.184181,
+          45.460113,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "TEAMFORCE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1831253,
+          45.4416365,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Politecnico di Milano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2282061,
+          45.4786353,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Boom Milano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.22401,
+          45.46324,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Oxilia22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2140673,
+          45.4920252,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Upcycle Milano Bike Cafè"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2263154,
+          45.4837059,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Nido d'Infanzia Asilo Bianco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2417467,
+          45.43208149999999,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "De Angeli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1495658,
+          45.4664306,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Spazio3 Architettura Srl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1576376,
+          45.4656873,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Carroponte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2234946,
+          45.5290049,
+          0
+        ]
+      }
+    }
+  ]
+}
